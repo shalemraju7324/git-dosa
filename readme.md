@@ -10,3 +10,4 @@
 
 ## Egg DOsa
 * Dosa Batter
+* 2 eggs karam dosa
